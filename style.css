@@ -1,0 +1,86 @@
+.navbar > .container > .navbar-nav > .nav-item a{
+    color: #333333;
+    font-size: 18px;
+}
+
+
+.navbar > .container > .navbar-nav > .nav-item a:hover{
+    color: blue;
+}
+
+.tagline-head > .container > .row > .col-md-6 > .tagline-profile{
+    padding: 100px 0px;
+}
+
+.tagline-head > .container > .row > .col-md-6 > .tagline-profile > h3{
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 8px;
+    font-size: 34px;
+    line-height: 1.5em;
+}
+
+.tagline-head > .container > .row > .col-md-6 > .tagline-profile > h1{
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 8px;
+    font-size: 38px;
+    line-height: 1.5em;
+}
+
+.tagline-head > .container > .row > .col-md-6 > .tagline-profile > .btn{
+    height: 55px;
+    width: 175px;
+    /* margin: 12px 6px 0px 6px; */
+    margin-top: 16px;
+    margin-right: 12px;
+}
+
+.tagline-head > .container > .row > .col-md-6 > .tagline-profile > .btn-primary{
+   background: rebeccapurple;
+   border: 0px ;
+}
+
+
+.tagline-head > .container > .row > .col-md-6 > .img-profile{
+    padding: 100px 0px;
+}
+
+
+.about{
+    width: 100%;
+    padding: 42px 0px;
+}
+
+.about > .container-fluid > .row > .col-md-6 > .tagline-about{
+    padding-right: 200px;
+
+}
+
+.about > .container-fluid > .row > .col-md-6 > .tagline-about h3{
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.about > .container-fluid > .row > .col-md-6 > .tagline-about p{
+    word-spacing: 2px;
+    line-height: 1.5em;
+    letter-spacing: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.about > .container-fluid > .row > .col-md-6 > .tagline-about .btn-primary{
+    padding: 12px 24px;
+    letter-spacing: 6px;
+    margin-top: 12px;
+    box-shadow: 0 10px 30px rgba(118,85,225,.3);
+}
+
+.about > .container-fluid > .row > .col-md-6 > .tagline-about .btn-primary:hover{
+    background: #fff;
+    border: 1px solid blue;
+    color: #333;
+    box-shadow: 0 10px 30px rgba(118, 85, 225, 0.548);
+}
